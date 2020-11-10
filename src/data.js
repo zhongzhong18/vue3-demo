@@ -7,7 +7,7 @@ Array.prototype.move = function (index,targetArray,targetArrayIndex = targetArra
 }
 const defaultNoFinishedEventList = [
   {
-    name:"pic分支修改",
+    name:"master分支修改aaaaaaaaaaaaaa",
     isEdit:false
   },
   {
